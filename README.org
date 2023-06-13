@@ -1,0 +1,10 @@
+* mockingbird
+
+A small stubbing and mocking library for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Chream/mockingbird.git   |
+| commit  | bf56e15  |
+| systems | mockingbird |
+|---------+-------------------------------------------|
+
